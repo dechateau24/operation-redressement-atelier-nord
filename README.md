@@ -92,6 +92,3 @@ Aucune donnée de santé dans le modèle, pas de décision fondée sur le code p
 
 Les CSV viennent de l'école : ne les publiez dans `data/` que si l'intervenant l'autorise.
 
-## Équipe
-
-[Prénoms et rôles]
